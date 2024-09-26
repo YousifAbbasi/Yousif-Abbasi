@@ -1,0 +1,23 @@
+# Arithmetic Operators in Python
+
+# Define two numbers
+a = 10
+b = 5
+
+# Addition
+addition = a + b
+print("Addition:", addition)  # Output: 15
+
+# Subtraction
+subtraction = a - b
+print("Subtraction:", subtraction)  # Output: 5
+
+# Multiplication
+multiplication = a * b
+print("Multiplication:", multiplication)  # Output: 50
+
+# Division
+division = a / b
+print("Division:", division)  # Output: 2.0
+
+# Mod
